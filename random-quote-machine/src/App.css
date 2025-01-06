@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+}
+
+#quote-box-wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#quote-box {
+  width: 450px;
+  background-color: white;
+  height: auto;
+  padding: 40px 50px;
+}
+
+#quote-box,
+#new-quote,
+#tweet-quote,
+#tumblr-quote {
+  border-radius: 3px;
+}
+.fa-quote-left {
+  padding-right: 10px;
+}
+
+#text {
+  display: block;
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+#author {
+  margin-top: 30px;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 20px;
+}
+
+#buttons {
+  margin-top: 30px;
+}
+
+#icons {
+  float: left;
+  margin-top: 10px;
+}
+
+#new-quote {
+  float: right;
+  padding: 10px 15px 10px 15px;
+  font-size: 15px;
+  border: none;
+  color: white;
+}
+
+#tweet-quote,
+#tumblr-quote {
+  /*   justify-content: center;
+  align-items: center;
+  display: flex; */
+  padding: 10px;
+  margin-right: 5px;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#tumblr-quote {
+  padding: 10px 13px;
+}
