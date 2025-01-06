@@ -1,4 +1,4 @@
-#GitHub Page: https://tenghanzhi.github.io/KatherineProject-SaoHuaGenerator
+#GitHub Page: https://tenghanzhi.github.io/katherine-sao-hua-generator
 
 # Getting Started with Create React App
 
