@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/KatherineProject-SaoHuaGenerator/static/css/main.6b28d051.css",
-    "main.js": "/KatherineProject-SaoHuaGenerator/static/js/main.f847f35e.js",
-    "index.html": "/KatherineProject-SaoHuaGenerator/index.html",
-    "main.6b28d051.css.map": "/KatherineProject-SaoHuaGenerator/static/css/main.6b28d051.css.map",
-    "main.f847f35e.js.map": "/KatherineProject-SaoHuaGenerator/static/js/main.f847f35e.js.map"
+    "main.css": "/katherine-sao-hua-generator/static/css/main.6b28d051.css",
+    "main.js": "/katherine-sao-hua-generator/static/js/main.f847f35e.js",
+    "index.html": "/katherine-sao-hua-generator/index.html",
+    "main.6b28d051.css.map": "/katherine-sao-hua-generator/static/css/main.6b28d051.css.map",
+    "main.f847f35e.js.map": "/katherine-sao-hua-generator/static/js/main.f847f35e.js.map"
   },
   "entrypoints": [
     "static/css/main.6b28d051.css",
